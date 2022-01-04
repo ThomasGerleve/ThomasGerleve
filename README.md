@@ -1,17 +1,13 @@
-<h1 align="center">Hey there :v: <br> Welcome to my github page  :hatched_chick::sparkles:</h1>
+<h1 align="center">Welcome to my github page</h1>
 
 <p> 
   I just finished the Le Wagon Fullstack Webdev Bootcamp in cologne (December 2021) after learning HTML, (S)CSS and JS by myself for about half a year.
-  I am now eager to get into the jobworld as a fullstack webdev! :relaxed: <br><br>
+  I am now eager to get into the jobworld as a fullstack webdev! <br><br>
   My current coding challenges are: 
   <ul>
     <li>
-      <a href="https://adventofcode.com/2021" target="_blank"> Advent of code </a><br>
-      I love challenges and games and this is the perfect mix for me! :relaxed:
-    </li>
-    <li>
       <a href="https://shifted.work" target="_blank"> shifted.work </a><br> 
-      A product my great teammates <a href="https://github.com/fullyouu" target="_blank">Veronika</a>, <a href="https://github.com/MorganFlam" target="_blank">Morgan</a> and <a href="https://github.com/keltz-dev" target="_blank">Karl</a> and I build together in the 2 project weeks of the Le Wagon Bootcamp. It's an app targeted at hospitals and nurses that optimizes and simplifies shift planning. It could be used in any context, though. I am very grateful for the opportunity of beeing the lead developer for such an awesome team! :heart_eyes: :revolving_hearts:
+      A product my great teammates <a href="https://github.com/fullyouu" target="_blank">Veronika</a>, <a href="https://github.com/MorganFlam" target="_blank">Morgan</a> and <a href="https://github.com/keltz-dev" target="_blank">Karl</a> and I build together in the 2 project weeks of the Le Wagon Bootcamp. It's an app targeted at hospitals and nurses that optimizes and simplifies shift planning. It could be used in any context, though. We know build on it further to learn and improve as fullstack webdevs.
     </li>
   </ul>
 </p>
