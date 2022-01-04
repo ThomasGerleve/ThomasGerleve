@@ -7,7 +7,7 @@
   <ul>
     <li>
       <a href="https://shifted.work" target="_blank"> shifted.work </a><br> 
-      A product my great teammates <a href="https://github.com/fullyouu" target="_blank">Veronika</a>, <a href="https://github.com/MorganFlam" target="_blank">Morgan</a> and <a href="https://github.com/keltz-dev" target="_blank">Karl</a> and I build together in the 2 project weeks of the Le Wagon Bootcamp. It's an app targeted at hospitals and nurses that optimizes and simplifies shift planning. It could be used in any context, though. We know build on it further to learn and improve as fullstack webdevs.
+      A product my great teammates <a href="https://github.com/fullyouu" target="_blank">Veronika</a>, <a href="https://github.com/MorganFlam" target="_blank">Morgan</a> and <a href="https://github.com/keltz-dev" target="_blank">Karl</a> and I build together in the 2 project weeks of the Le Wagon Bootcamp. It's an app targeted at hospitals and nurses that optimizes and simplifies shift planning. It could be used in any context, though. We build on it further to learn and improve as fullstack webdevs.
     </li>
   </ul>
 </p>
